@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Souad\source\repos\CIS3501Proj2\CIS3501Proj2\BST.h(213): warning C4715: 'BST::SearchItem': not all control paths return a value
+C:\Users\Souad\source\repos\CIS3501Proj2\CIS3501Proj2\AVL.h(385): warning C4715: 'AVL::SearchItem': not all control paths return a value
+  CIS3501Proj2.vcxproj -> C:\Users\Souad\source\repos\CIS3501Proj2\x64\Debug\CIS3501Proj2.exe

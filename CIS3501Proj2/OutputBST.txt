@@ -1,0 +1,38 @@
+Insert into BST 3
+
+3
+
+Tree Height: 1
+Comparisons/operations to insert 3: 2
+
+Insert into BST 5
+
+3
+    5
+
+Tree Height: 2
+Comparisons/operations to insert 5: 3
+
+Insert into BST 4
+
+3
+        4
+    5
+
+Tree Height: 3
+Comparisons/operations to insert 4: 4
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Empty Action File. No actions will be performed
+Right Left balance
+Operation/Comparison Count!
+
+		BST	AVL
+Creation	9	9
+Search		0	0
+Insert		0	0
+Delete		0	0
+
+Total		9	9
